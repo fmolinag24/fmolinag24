@@ -1,5 +1,10 @@
-## Hi there 👋
-
+# Mi perfil de github 👋
+## Hola soy Francisco 
+###Sobre mi:
+- Estudiante de estadística de la Universidad Nacional de Colombia
+- Estoy aprendiendo a programar en html, python y javascript
+- Mis metas son dominar python para poder aplicarlo a mi carrera y desarrollar una buana lógica de programación
+###
 <!--
 **fmolinag24/fmolinag24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
