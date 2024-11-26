@@ -1,5 +1,5 @@
-# Mi perfil de github 👋
-## Hola soy Francisco 
+# Mi perfil de github 
+## Hola soy Francisco 👋
 ###Sobre mi:
 - Estudiante de estadística de la Universidad Nacional de Colombia
 - Estoy aprendiendo a programar en html, python y javascript
